@@ -229,7 +229,7 @@ export default function App() {
   // Main screen rendering
   return (
     <View style={{ flex: 1 }}>
-      <StatusBar style="auto" />
+      <StatusBar style="dark" />
       {/* Editor view */}
       {isEditing && (<SafeAreaView style={styles.editorContainer}>
         <View style={styles.modalHeader}>

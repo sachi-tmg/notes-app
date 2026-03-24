@@ -31,8 +31,8 @@ NotesApp is a note-taking mobile application built using React Native and Expo. 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/sachi-tmg/notes-app.git
+cd notes-app
 ```
 
 2. Install dependencies:
